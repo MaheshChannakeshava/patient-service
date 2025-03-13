@@ -1,0 +1,16 @@
+### POST Request to create new patient data
+POST http://localhost:8080/patients
+Content-Type: application/json
+
+{
+  "name": "Mahesh",
+  "email":"Example@example.com",
+  "address": "123, John Street",
+  "dateOfBirth": "1995-04-19",
+  "registeredDate": "2025-02-15"
+
+
+
+}
+
+###

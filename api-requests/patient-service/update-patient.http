@@ -1,0 +1,13 @@
+### Update patient details
+PUT http://localhost:8080/patients/223e4567-e89b-12d3-a456-426614174014
+Content-Type: application/json
+
+{
+  "name": "Mahesh",
+  "email":"Example@example.com",
+  "address": "268, John Street",
+  "dateOfBirth": "1995-04-19"
+}
+
+
+###

@@ -1,0 +1,5 @@
+### Delete Request of patient details
+DELETE http://localhost:8080/patients/223e4567-e89b-12d3-a456-426614174006
+
+
+
